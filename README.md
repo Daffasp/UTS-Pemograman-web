@@ -1,9 +1,11 @@
 ## PROFIL
-| -------------------|----------------------------|
-| Nama           |         Daffa Sadewa Putra      |
-| NIM            |          312310463         |
-| Kelas          |          TI.23.A.5         |
-| Mata Kuliah    |     Pemrograman Web     |
+| Detail      | Keterangan      |
+| ----------- | --------------- |
+| Nama        | Daffa Sadewa Putra   |
+| Kelas       | TI.23.A5        |
+| NIM         | 312310463     |
+| Mata Kuliah | PEMROGRAMAN WEB |
+
 
 # Membuat Website-Dinamis
 
@@ -15,32 +17,17 @@
 !![image](https://github.com/user-attachments/assets/b42295cd-0d79-4ba1-9898-07e95b2efa4f)
 
 
-
-
 # 1. Menambahkan Home
 dengan memasukan halaman Home
-
-
-
-
-
+!![Home](https://github.com/user-attachments/assets/cd4d3633-3a16-45c5-87eb-7f8d1a9bf494)
 
 
 # 2. Menambahkan About
-dengan memasukan image dan carousel dari:
-https://getbootstrap.com/docs/5.3/components/card/
-
-![alt text](image/about.png)
-
-
-
-
+!![about](https://github.com/user-attachments/assets/8287205c-0b51-42a9-8965-89032ad5137f)
 
 
 # 3. Menambahkan contact
-denggan memasukan halaman contact
-
-![alt text](image/contact.png)
+![contact](https://github.com/user-attachments/assets/cf4e34e0-f8d9-46d0-bd0a-b2c8c66a2c5c)
 
 
 
