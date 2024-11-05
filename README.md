@@ -8,25 +8,17 @@
 
 # Membuat Website-Dinamis
 
-
-# Membuat index: membuat webssite-dinamis
-
 # membuat tampilan dalam
 ![Layar utama](https://github.com/user-attachments/assets/29064b1b-7dd3-4ef9-a106-7c81adee0116)
 
 
-
-
-
-
 # Menambahkan data navbar
+!![image](https://github.com/user-attachments/assets/b42295cd-0d79-4ba1-9898-07e95b2efa4f)
 
 
 
-# outputnya ketika berhasil:
 
-
-# 3. Menambahkan Home
+# 1. Menambahkan Home
 dengan memasukan halaman Home
 
 
@@ -35,7 +27,7 @@ dengan memasukan halaman Home
 
 
 
-# 4. Menambahkan About
+# 2. Menambahkan About
 dengan memasukan image dan carousel dari:
 https://getbootstrap.com/docs/5.3/components/card/
 
@@ -46,14 +38,14 @@ https://getbootstrap.com/docs/5.3/components/card/
 
 
 
-# 5. Menambahkan contact
+# 3. Menambahkan contact
 denggan memasukan halaman contact
 
 ![alt text](image/contact.png)
 
 
 
-# Membuat datatables dibelajar
+# 4. Membuat datatables dibelajar
 brikan skrip untuk datatables.php yang mengacu pada:
 https://datatables.net/examples/basic_init/zero_configuration.html
 
@@ -61,7 +53,7 @@ https://datatables.net/examples/basic_init/zero_configuration.html
 
 
 
-# Membuat form dibelajar
+# 5. Membuat form dibelajar
 menambahkan form dari:
 https://getbootstrap.com/docs/5.3/forms/overview/#overview
 
