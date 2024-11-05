@@ -12,7 +12,7 @@
 # Membuat index: membuat webssite-dinamis
 
 # membuat tampilan dalam
-![ALT TEXT]![Layar utama](https://github.com/user-attachments/assets/29064b1b-7dd3-4ef9-a106-7c81adee0116)
+![Layar utama](https://github.com/user-attachments/assets/29064b1b-7dd3-4ef9-a106-7c81adee0116)
 
 
 
