@@ -14,7 +14,7 @@
 
 
 # Menambahkan data navbar
-!![image](https://github.com/user-attachments/assets/b42295cd-0d79-4ba1-9898-07e95b2efa4f)
+![image](https://github.com/user-attachments/assets/b42295cd-0d79-4ba1-9898-07e95b2efa4f)
 
 
 # 1. Menambahkan Home
@@ -22,7 +22,7 @@
 
 
 # 2. Menambahkan About
-!![about](https://github.com/user-attachments/assets/8287205c-0b51-42a9-8965-89032ad5137f)
+![about](https://github.com/user-attachments/assets/8287205c-0b51-42a9-8965-89032ad5137f)
 
 
 # 3. Menambahkan contact
