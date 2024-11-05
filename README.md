@@ -1,5 +1,4 @@
 ## PROFIL
-| Variable           |             Isi            |
 | -------------------|----------------------------|
 | Nama           |         Daffa Sadewa Putra      |
 | NIM            |          312310463         |
