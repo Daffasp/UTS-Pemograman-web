@@ -18,8 +18,7 @@
 
 
 # 1. Menambahkan Home
-dengan memasukan halaman Home
-!![Home](https://github.com/user-attachments/assets/cd4d3633-3a16-45c5-87eb-7f8d1a9bf494)
+![Home](https://github.com/user-attachments/assets/cd4d3633-3a16-45c5-87eb-7f8d1a9bf494)
 
 
 # 2. Menambahkan About
