@@ -30,20 +30,12 @@ dengan memasukan halaman Home
 ![contact](https://github.com/user-attachments/assets/cf4e34e0-f8d9-46d0-bd0a-b2c8c66a2c5c)
 
 
-
 # 4. Membuat datatables dibelajar
-brikan skrip untuk datatables.php yang mengacu pada:
-https://datatables.net/examples/basic_init/zero_configuration.html
-
-![alt text](image/javaascript.png)
-
+![datatables](https://github.com/user-attachments/assets/5b4ebce2-2f9e-4850-b151-fc7e52cd23f3)
 
 
 # 5. Membuat form dibelajar
-menambahkan form dari:
-https://getbootstrap.com/docs/5.3/forms/overview/#overview
+![form](https://github.com/user-attachments/assets/8175c011-7caf-4af4-ac89-571d1b077948)
 
 
-
-
-# SELESAIIII
+# SELESAI&TERIMA KASIH
